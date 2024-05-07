@@ -7,7 +7,7 @@
 - Branch principal: master
 - Tecnologías utilizadas: Python, JavaScript, HTML, CSS
 - Integraciones: Travis CI, Codecov
-- Password: B92gzPSumPcTKALvZJfNDRaH4w5Z9VxX
+- Password: secret.key
 - Issues abiertos: 5
 - Pull requests pendientes: 3
 - Lenguaje predominante: Python
