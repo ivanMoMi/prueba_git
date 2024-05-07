@@ -1,0 +1,26 @@
+
+Repositorio de Github:
+
+- Usuario: johndoe123
+- Company: ABC Solutions
+- Grupo de trabajo: Team Alpha
+- Proyecto: Proyecto X
+- Fecha de creación: 12/05/2020
+- Última modificación: 28/08/2020
+- Branch principal: master
+- Tecnologías utilizadas: Python, JavaScript, HTML, CSS
+- Integraciones: Travis CI, Codecov
+- Password: No passwords in production
+- Issues abiertos: 5
+- Pull requests pendientes: 3
+- Lenguaje predominante: Python
+- Documentación: https://github.com/johndoe123/proyecto-x/docs
+- Versiones: v1.0, v2.0
+- Commits realizados: 50
+- Colaboradores: sarahsmith456, bobwilson789
+- Licencia: MIT
+- Estrellas: 20
+- Forks: 10
+- README actualizado
+- Indicaciones de instalación y uso claras
+- Proceso de despliegue automatizado
